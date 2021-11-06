@@ -1,2 +1,2 @@
 # contracts
-Official 🌈CryptoGifters Solidity smart contracts
+Official 🌈 CryptoGifters Solidity smart contracts
